@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_employee", "MVC_employee\MVC_employee.csproj", "{F49CA594-4B23-40EE-9DBF-E11FC968ECEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC_employee", "MVC_employee\MVC_employee.csproj", "{F49CA594-4B23-40EE-9DBF-E11FC968ECEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_tests", "Employee_tests\Employee_tests.csproj", "{95B8BFF6-578D-4524-8051-DA07CCB89BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee_tests", "Employee_tests\Employee_tests.csproj", "{95B8BFF6-578D-4524-8051-DA07CCB89BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Calculator", "MVC_Calculator\MVC_Calculator.csproj", "{35AB31BD-9EA4-4D5D-A227-FA766BFF3812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_test", "Calculator_test\Calculator_test.csproj", "{AD039FAA-815A-4AF5-9C70-2CD4C3CCD11A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{95B8BFF6-578D-4524-8051-DA07CCB89BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95B8BFF6-578D-4524-8051-DA07CCB89BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95B8BFF6-578D-4524-8051-DA07CCB89BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AB31BD-9EA4-4D5D-A227-FA766BFF3812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AB31BD-9EA4-4D5D-A227-FA766BFF3812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AB31BD-9EA4-4D5D-A227-FA766BFF3812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AB31BD-9EA4-4D5D-A227-FA766BFF3812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD039FAA-815A-4AF5-9C70-2CD4C3CCD11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD039FAA-815A-4AF5-9C70-2CD4C3CCD11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD039FAA-815A-4AF5-9C70-2CD4C3CCD11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD039FAA-815A-4AF5-9C70-2CD4C3CCD11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
